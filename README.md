@@ -1,6 +1,6 @@
 -  Hi, I’m @Pierrickjay
 -  I'm currently at 42school
--  I’m interested in C/JavaScript/React
+-  I’m can code in C/c++/JavaScript/HTML/CSS
 -  How to reach me pierrick.jay1@gmail.com
 
 <!---
